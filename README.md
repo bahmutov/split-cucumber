@@ -4,7 +4,7 @@
 
 Using the free plugin [cypress-split](https://github.com/bahmutov/cypress-split) without any external services
 
-See the course [Cypress-split Plugin](https://cypress.tips/courses/cypress-split)
+🎓 See the course [Cypress-split Plugin](https://cypress.tips/courses/cypress-split)
 
 ## Small print
 

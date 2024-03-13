@@ -8,8 +8,6 @@ module.exports = defineConfig({
     fixturesFolder: false,
     supportFile: false,
     setupNodeEvents(on, config) {
-      cypressSplit(on, config)
-
       on('file:preprocessor', cucumber())
       // IMPORTANT: return the config object
       return config
